@@ -1,0 +1,51 @@
+EmployeeID,Name,Age,Gender,Department,JobRole,EducationLevel,HireDate,ExitDate,Attrition,PerformanceRating,SatisfactionScore,Salary,OverTime,YearsAtCompany,PromotionLastYear
+1,Employee 1,51,Other,HR,Executive,PhD,2022-04-05,2026-10-30,Yes,5,1.2,85315,Yes,2,Yes
+2,Employee 2,26,Other,Finance,Consultant,High School,2022-10-16,2025-05-05,Yes,4,3.9,44659,Yes,9,No
+3,Employee 3,27,Female,Sales,Analyst,Master's,2015-01-17,,No,1,3.2,48698,Yes,10,No
+4,Employee 4,25,Other,Operations,Technician,PhD,2018-11-13,,No,2,2.1,117045,No,4,Yes
+5,Employee 5,28,Female,Sales,Analyst,PhD,2019-10-06,2024-10-22,Yes,3,1.0,35598,Yes,12,Yes
+6,Employee 6,38,Other,Marketing,Executive,Master's,2016-08-26,2019-10-28,Yes,1,4.1,112778,Yes,8,Yes
+7,Employee 7,35,Female,Operations,Analyst,High School,2016-11-26,2019-08-14,Yes,4,4.7,80046,Yes,14,No
+8,Employee 8,49,Male,IT,Executive,High School,2017-07-24,2019-10-25,Yes,5,4.1,128613,Yes,6,Yes
+9,Employee 9,52,Other,IT,Analyst,Bachelor's,2017-01-02,,No,4,3.1,50930,Yes,8,Yes
+10,Employee 10,43,Other,Sales,Technician,High School,2022-11-02,2025-01-17,Yes,1,4.7,79738,Yes,12,No
+11,Employee 11,54,Female,HR,Consultant,Master's,2015-01-31,2018-06-06,Yes,2,3.4,121787,Yes,6,Yes
+12,Employee 12,26,Other,Finance,Executive,Master's,2017-05-11,,No,1,2.6,111422,Yes,9,No
+13,Employee 13,36,Male,Operations,Consultant,Bachelor's,2023-01-28,,No,2,1.9,143289,No,1,No
+14,Employee 14,55,Female,HR,Executive,Bachelor's,2018-03-06,,No,2,3.9,32274,No,5,No
+15,Employee 15,32,Female,Marketing,Analyst,PhD,2019-07-11,2023-07-10,Yes,4,4.3,63710,No,5,No
+16,Employee 16,49,Female,IT,Manager,High School,2022-05-13,2024-01-16,Yes,5,3.2,84704,Yes,7,Yes
+17,Employee 17,29,Other,Operations,Analyst,High School,2021-02-14,2026-07-06,Yes,5,1.2,145378,No,13,Yes
+18,Employee 18,60,Female,IT,Technician,PhD,2020-07-26,,No,3,2.9,145497,No,13,No
+19,Employee 19,58,Male,Sales,Analyst,High School,2017-04-09,2021-10-09,Yes,1,2.6,106602,No,7,No
+20,Employee 20,32,Other,HR,Executive,PhD,2023-01-06,,No,5,4.6,111670,No,4,No
+21,Employee 21,22,Male,Operations,Executive,PhD,2017-01-20,2019-01-13,Yes,4,1.8,96156,No,5,Yes
+22,Employee 22,27,Female,IT,Analyst,Bachelor's,2020-12-07,,No,5,2.1,57463,Yes,10,No
+23,Employee 23,47,Male,IT,Analyst,Bachelor's,2022-05-05,2026-10-16,Yes,3,2.1,94064,Yes,11,No
+24,Employee 24,38,Male,IT,Consultant,Master's,2021-12-22,2027-01-06,Yes,3,4.3,62212,No,1,Yes
+25,Employee 25,30,Female,Marketing,Manager,Bachelor's,2019-02-20,,No,5,3.3,87790,No,2,Yes
+26,Employee 26,31,Female,IT,Analyst,PhD,2020-12-26,2025-11-10,Yes,1,2.4,45863,Yes,6,Yes
+27,Employee 27,58,Other,HR,Executive,Bachelor's,2021-07-05,2022-09-21,Yes,5,1.4,74245,No,11,No
+28,Employee 28,29,Female,Finance,Analyst,Master's,2022-02-06,2025-04-20,Yes,4,3.0,95820,Yes,14,No
+29,Employee 29,49,Male,Finance,Technician,Master's,2015-08-25,,No,2,2.6,38825,Yes,15,Yes
+30,Employee 30,47,Female,HR,Analyst,PhD,2020-02-27,2025-08-14,Yes,3,2.4,52811,Yes,1,No
+31,Employee 31,38,Female,Operations,Analyst,Master's,2018-03-26,2021-03-04,Yes,1,3.7,117075,Yes,3,No
+32,Employee 32,34,Female,Operations,Analyst,PhD,2015-07-10,2017-05-28,Yes,5,2.3,117320,Yes,11,Yes
+33,Employee 33,30,Female,Finance,Technician,Bachelor's,2018-01-12,,No,5,2.5,74815,No,5,No
+34,Employee 34,36,Other,Operations,Consultant,Bachelor's,2017-01-15,,No,2,3.1,52510,Yes,14,Yes
+35,Employee 35,40,Male,HR,Executive,PhD,2016-07-09,,No,3,2.5,34134,No,1,Yes
+36,Employee 36,43,Other,Sales,Manager,PhD,2020-11-08,,No,1,2.1,133498,No,10,No
+37,Employee 37,35,Female,HR,Executive,High School,2020-05-31,,No,2,1.5,97244,No,10,No
+38,Employee 38,23,Other,Finance,Executive,Master's,2015-12-17,2017-08-12,Yes,5,1.8,26005,No,13,No
+39,Employee 39,28,Male,Operations,Analyst,Master's,2020-11-15,,No,2,3.3,126358,Yes,10,No
+40,Employee 40,58,Female,IT,Technician,High School,2015-06-02,,No,3,1.1,98556,Yes,9,Yes
+41,Employee 41,54,Female,Sales,Technician,High School,2018-11-28,,No,4,3.9,53597,Yes,13,No
+42,Employee 42,23,Other,Finance,Consultant,Master's,2022-06-08,2023-12-20,Yes,5,1.0,35242,Yes,4,Yes
+43,Employee 43,50,Male,Sales,Consultant,High School,2016-09-08,2021-12-03,Yes,2,2.1,116360,No,13,No
+44,Employee 44,48,Other,Sales,Manager,PhD,2021-03-19,,No,5,3.2,43516,No,9,Yes
+45,Employee 45,52,Female,Marketing,Technician,PhD,2017-12-10,,No,1,3.9,118192,No,12,No
+46,Employee 46,54,Other,HR,Manager,Bachelor's,2023-03-07,2026-01-01,Yes,4,2.9,97276,Yes,9,Yes
+47,Employee 47,33,Male,IT,Analyst,Master's,2018-01-28,,No,1,4.1,141304,Yes,3,No
+48,Employee 48,38,Male,IT,Executive,PhD,2016-11-24,,No,3,1.3,47214,No,2,No
+49,Employee 49,31,Male,Sales,Manager,PhD,2021-06-07,2023-04-17,Yes,4,1.7,70399,No,6,No
+50,Employee 50,33,Other,Marketing,Manager,PhD,2016-11-09,,No,5,2.7,51189,Yes,15,Yes
